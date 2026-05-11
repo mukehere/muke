@@ -32,7 +32,7 @@
 #
 
 ### 🦾 Deadlink
-I've worked on **Deadlink** as UI Technical Designer creating UI systems, designs and animations. You can see some highlights of my work and reference in this <a href="https://drive.google.com/drive/folders/1MD6XN4KZL7b3qLo4yRqZA4qBxzrgb1ph?usp=sharing">portfolio</a>.
+I've worked on **Deadlink** as UI Technical Designer creating UI systems, designs and animations.
 
 [![Deadlink - Official Full Release Trailer](https://ytcards.demolab.com/?id=DRBf9RD9Yjk&t=1s=Deadlink+-+Official+Full+Release+Trailer&lang=en&timestamp=1691100000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=102 "Deadlink - Official Full Release Trailer")](https://youtu.be/DRBf9RD9Yjk?si=n-RYUD_ZSKF4yUmT)
 
